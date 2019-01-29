@@ -1,2 +1,2 @@
-# yarisma-deneme
-marc yarışması için deneme
+Does anyone read this?
+Please send me a pull req. if you did ;)
